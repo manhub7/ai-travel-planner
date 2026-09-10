@@ -1,1 +1,4 @@
-.gitignore
+streamlit
+groq
+pydantic
+python-dotenv
